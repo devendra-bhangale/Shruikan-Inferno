@@ -2,9 +2,6 @@
  *Author:	Devendra Bhangale
  */
 
-# Shruikan-Inferno
-A 2D Java Game 'Shruikan Inferno' - different collision detection and AI algorithms, animations and graphics.
-
 To RUN and PLAY:-
 
 1] Import the project into your eclipse workspace and run the project as 'Java Applet'.
