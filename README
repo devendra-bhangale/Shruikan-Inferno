@@ -1,0 +1,18 @@
+/*
+ *Author:	Devendra Bhangale
+ */
+
+# Shruikan-Inferno
+A 2D Java Game 'Shruikan Inferno' - different collision detection and AI algorithms, animations and graphics.
+
+To RUN and PLAY:-
+
+1] Import the project into your eclipse workspace and run the project as 'Java Applet'.
+2] Control the dragon using arrow keys to move the dragon in any direction. (keep key-'x' pressed and press right of left arrow key to fly the dragon backwards.)
+3] Press key-'v' to fire 'fireballs' or key-'c' to breathe fire.
+4] The task is to collect all 7 dragon balls.
+5] The 'Phoenix' will upgrade health.
+6] The blinking dark cloud will upgrade 'fireball' power.
+7] The blinking zombies are more powerful than other zombeies; hence you need to shoot more at them to kill them. Also, if they are not killed then they turn around and follow the dragon till you kill them.
+8] On the top-left corner, all your game statistics are shown - kill score, health, fire-breadth strength and powerup for fireball.
+9] At the top-center, all the collected and missed dragon-balls are shown.
